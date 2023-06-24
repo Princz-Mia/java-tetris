@@ -14,7 +14,7 @@ During the third semester at Budapest University of Technology and Economics, as
   - Arrow keys: Move the block left, right, down or rotate.
   - Spacebar: Hard-drop block.
 - Scoring:
-  - Points are earned for each completed line. The game use the classic Tetris [point calculation].(https://tetris.fandom.com/wiki/Scoring)
+  - Points are earned for each completed line. The game use the classic Tetris [point calculation](https://tetris.fandom.com/wiki/Scoring).
   - The game speed increases as the score increases.
 - Leaderboard:
   - Tracks and displays the top scores of players.
@@ -60,10 +60,10 @@ To run the Java Tetris game on your machine, follow these steps:
 * Clcik on the "Return to Menu" button to close game window and open the menu window.
 
 ## Graphical Interface
-<a href="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa"><img src="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA"><img src="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q"><img src="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X"><img src="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_"><img src="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa" style="width: 320px; max-width: 100%; height: 320px" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA"><img src="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA" style="width: 320px; max-width: 100%; height: 320px" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q"><img src="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q" style="width: 320px; max-width: 100%; height: 320px" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X"><img src="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X" style="width: 320px; max-width: 100%; height: 320px" title="Click to enlarge picture" />
 
 ## License
 
