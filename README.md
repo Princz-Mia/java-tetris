@@ -60,11 +60,10 @@ To run the Java Tetris game on your machine, follow these steps:
 * Clcik on the "Return to Menu" button to close game window and open the menu window.
 
 ## Graphical Interface
-
-![](https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_)
-![](https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA)
-![](https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q)
-![](https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X)
+<a href="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa"><img src="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA"><img src="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q"><img src="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X"><img src="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 ## License
 
