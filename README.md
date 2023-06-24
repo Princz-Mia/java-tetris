@@ -20,7 +20,7 @@ During the third semester at Budapest University of Technology and Economics, as
   - Tracks and displays the top scores of players.
   - Allows players to enter their names after a game over.
   - Leaderboard data is saved, therefore your accomplishments will not disappear.
-- Settings in :
+- Settings in menu:
   - You can change the volumne of the game sounds and music.
 - Settings in game:
   - Pause
