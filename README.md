@@ -61,10 +61,10 @@ To run the Java Tetris game on your machine, follow these steps:
 
 ## Graphical Interface
 
-![GIF](https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_){:width="50%"}
-![GIF](https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA){:width="50%"}
-![](https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q){:width="50%"}
-![](https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X){:width="50%"}
+![](https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_)
+![](https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA)
+![](https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q)
+![](https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X)
 
 ## License
 
