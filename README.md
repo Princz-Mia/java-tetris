@@ -60,10 +60,11 @@ To run the Java Tetris game on your machine, follow these steps:
 * Clcik on the "Return to Menu" button to close game window and open the menu window.
 
 ## Graphical Interface
-<a href="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_"><img src="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_" style="width: 320px; max-width: 100%; height: 480px" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA"><img src="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA" style="width: 320px; max-width: 100%; height: 480px" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q"><img src="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q" style="width: 320px; max-width: 100%; height: 480px" title="Click to enlarge picture" />
-<a href="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X"><img src="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X" style="width: 320px; max-width: 100%; height: 480px" title="Click to enlarge picture" />
+<iframe src="https://giphy.com/embed/LVhV26px9wDJ5ceFTe" width="320" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LVhV26px9wDJ5ceFTe">via GIPHY</a></p>
+<a href="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_"><img src="https://drive.google.com/uc?export=download&id=1BqdmIcOV8Pd9Gr4A3sQn9VWquw3nhpa_" style="width: 320px; max-width: 100%; height: 480px" title="Click to download picture" />
+<a href="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA"><img src="https://drive.google.com/uc?export=download&id=1A394G1JHyeFhBdqvu8NaCe1abUevUbGA" style="width: 320px; max-width: 100%; height: 480px" title="Click to download picture" />
+<a href="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q"><img src="https://drive.google.com/uc?export=download&id=1DDtybKzMgpPq4TsxJJLOozZRj9WruG8Q" style="width: 320px; max-width: 100%; height: 480px" title="Click to download picture" />
+<a href="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X"><img src="https://drive.google.com/uc?export=download&id=1hH8OenIpP3x0fI9RbGjeWuYeRTMpbT0X" style="width: 320px; max-width: 100%; height: 480px" title="Click to download picture" />
 
 ## License
 
@@ -71,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This project is based on the work of [Mia Princz](https://github.com/miaprincz). The original repository can be found [here](https://github.com/miaprincz/tetris).
+This project is based on the work of [Mia Princz](https://github.com/Princz-Mia). The original repository can be found [here](https://github.com/miaprincz/java-tetris).
 
 ## Contributions
 
