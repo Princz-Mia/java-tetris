@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This project is based on the work of [Mia Princz](https://github.com/Princz-Mia). The original repository can be found [here](https://github.com/miaprincz/java-tetris).
+This project is based on the work of [Mia Princz](https://github.com/Princz-Mia). The original repository can be found [here](https://github.com/Princz-Mia/java-tetris).
 
 ## Contributions
 
