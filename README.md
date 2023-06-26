@@ -33,14 +33,25 @@ To run the Java Tetris game on your machine, follow these steps:
 
 1. Ensure you have Java Development Kit (JDK) installed.
 2. Clone the repository or download the source code.
-3. Compile the Java source files using the following command:
+3. Open a command prompt or terminal window on your computer.
+4. Navigate to the src directory of the Java program. For example, if the program folder is located at C:\Projects\JavaTetris\src, you would use the following command in the command prompt:
    ```
-   javac mia_princz/tetris/*.java mia_princz/tetrisblocks/*.java
+   cd C:\Projects\JavaTetris\src
    ```
-4. Run the game using the following command:
+5. Once you are inside the src directory, compile the program by executing the following command:
    ```
-   java Tetris
+   javac -cp . com/mia_princz/tetris/Tetris.java
    ```
+   *This command will compile the Tetris.java file and generate the corresponding .class files.*
+6. After compiling the program, navigate one level up in the directory structure using the following command:
+   ```
+   cd ..
+   ```
+7. Now execute the following command to run the program:
+   ```
+   java -cp .;src;game_assets;game_sounds com.mia_princz.tetris.Tetris
+   ```
+   *This command will launch the Tetris class, which contains the main function, and run the Java program.*
 
 ## How to Play
 
