@@ -1,4 +1,4 @@
-package mia_princz.tetris;
+package com.mia_princz.tetris;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -232,7 +232,6 @@ public class GameWindow extends JFrame implements ActionListener {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (!isPaused) {
-                    System.out.println("Player: Initiate move right.");
                     gameField.moveBlockRight();
                 }
             }
@@ -241,7 +240,6 @@ public class GameWindow extends JFrame implements ActionListener {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (!isPaused) {
-                    System.out.println("Player: Initiate move left.");
                     gameField.moveBlockLeft();
                 }
             }
@@ -250,7 +248,6 @@ public class GameWindow extends JFrame implements ActionListener {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (!isPaused) {
-                    System.out.println("Player: Initiate rotation.");
                     gameField.rotateBlock();
                 }
             }
@@ -259,7 +256,6 @@ public class GameWindow extends JFrame implements ActionListener {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (!isPaused) {
-                    System.out.println("Player: Initiate drop.");
                     gameField.moveBlockDown();
                 }
             }
@@ -268,7 +264,6 @@ public class GameWindow extends JFrame implements ActionListener {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (!isPaused) {
-                    System.out.println("Player: Initiate hard-drop.");
                     gameField.dropBlock();
                 }
             }

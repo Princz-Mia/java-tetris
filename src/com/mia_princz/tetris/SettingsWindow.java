@@ -1,4 +1,4 @@
-package mia_princz.tetris;
+package com.mia_princz.tetris;
 
 import javax.imageio.ImageIO;
 import javax.sound.sampled.FloatControl;

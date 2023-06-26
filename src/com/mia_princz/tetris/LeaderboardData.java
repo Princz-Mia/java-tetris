@@ -1,4 +1,4 @@
-package mia_princz.tetris;
+package com.mia_princz.tetris;
 
 import javax.swing.table.AbstractTableModel;
 import java.io.*;

@@ -1,4 +1,4 @@
-package mia_princz.tetris;
+package com.mia_princz.tetris;
 
 /**
  * The BackgroundAnimationThread class is responsible for running the background animation
@@ -50,7 +50,6 @@ public class BackgroundAnimationThread extends Thread {
                     // Pause for a short duration to control the speed of the animation
                     Thread.sleep(50);
                 } catch (InterruptedException e) {
-                    System.out.println("BackgroundAnimation-Thread: Thread has been interrupted.");
                     throw new RuntimeException(e);
                 }
             }

@@ -1,7 +1,7 @@
-package mia_princz.tetrisblocks;
+package com.mia_princz.tetrisblocks;
 
-import mia_princz.tetris.GameFieldPanel;
-import mia_princz.tetris.TetrisBlock;
+import com.mia_princz.tetris.GameFieldPanel;
+import com.mia_princz.tetris.TetrisBlock;
 
 import java.awt.*;
 

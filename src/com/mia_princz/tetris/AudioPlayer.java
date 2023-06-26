@@ -1,4 +1,4 @@
-package mia_princz.tetris;
+package com.mia_princz.tetris;
 
 import javax.sound.sampled.*;
 import java.io.File;
@@ -81,7 +81,6 @@ public class AudioPlayer {
             GAME_THEME_SONG.open(AudioSystem.getAudioInputStream(new File("game_sounds" + File.separator + "Tetris-main_theme_song.wav").getAbsoluteFile()));
 
         } catch (LineUnavailableException | UnsupportedAudioFileException | IOException lineUnavailableException) {
-            System.out.println("Audio initialization failed.");
             // RunTimeException enough. AudioPlayer is not a vital class.
             throw new RuntimeException(lineUnavailableException);
         }

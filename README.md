@@ -39,7 +39,7 @@ To run the Java Tetris game on your machine, follow these steps:
    ```
 4. Run the game using the following command:
    ```
-   java mia_princz.tetris.Tetris
+   java Tetris
    ```
 
 ## How to Play

@@ -1,4 +1,4 @@
-package mia_princz.tetris;
+package com.mia_princz.tetris;
 
 /**
  * Represents a thread that controls the Tetris game logic and gameplay.
@@ -95,15 +95,12 @@ public class GameThread extends Thread {
                         AudioPlayer.playMoveBlockSound();
                         Thread.sleep(delay);
                     } catch (InterruptedException e) {
-                        System.out.println("GameThread: Thread has been interrupted.");
                         throw new RuntimeException(e);
                     }
                 }
             }
 
             if (GAME_PANEL.isBlockOutOfBounds()) {
-                System.out.println("GameThread: Current block is out of bounds ---> GAME OVER!");
-
                 AudioPlayer.playGameOverSound();
 
                 Tetris.gameOver(score);

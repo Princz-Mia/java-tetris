@@ -1,6 +1,6 @@
-package mia_princz.tetris;
+package com.mia_princz.tetris;
 
-import mia_princz.tetrisblocks.*;
+import com.mia_princz.tetrisblocks.*;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
