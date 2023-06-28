@@ -80,13 +80,9 @@ To run the Java Tetris game on your machine, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgments
-
-This project is based on the work of [Mia Princz](https://github.com/Princz-Mia). The original repository can be found [here](https://github.com/Princz-Mia/java-tetris).
-
 ## Contributions
 
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to contact me.
+Contributions to this project are welcome. If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
 
 ## Disclaimer Regarding Images, Music, and Sounds
 
