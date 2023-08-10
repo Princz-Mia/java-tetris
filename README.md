@@ -2,7 +2,7 @@
 
 Java Tetris is a simple implementation of the classic Tetris game written in Java. It provides a graphical user interface using Swing components and allows players to enjoy the addictive gameplay of arranging falling blocks to form complete lines.
 
-## Background
+## Background Story
 
 During the third semester at Budapest University of Technology and Economics, as part of the requirements for the Programming 3 course, I undertook a homework project. For this project, I decided to create a simple implementation of the classic Tetris game, marking it as my first Java endeavor. Throughout the development process, I primarily relied on the course's presentation slides and supplemented my knowledge with help of the Internet.
 
